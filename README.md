@@ -38,9 +38,9 @@ Explorar padrões clínicos, fatores de risco, hábitos de vida e desfechos tera
 
 ## 📊 Exemplos Visuais
 
-![Demografia](./assets/dashboard1.png)  
-![Fatores de Risco](./assets/dashboard2.png)  
-![Desfechos](./assets/dashboard3.png)
+![perfil_demografico](./assets/dashboard1.png)  
+![habitos_fatores_risco](./assets/dashboard2.png)  
+![desfechos_tratamento](./assets/dashboard3.png)
 
 ---
 
