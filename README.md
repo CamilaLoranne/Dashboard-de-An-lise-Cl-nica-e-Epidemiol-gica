@@ -36,14 +36,6 @@ Explorar padrões clínicos, fatores de risco, hábitos de vida e desfechos tera
 
 ---
 
-## 📊 Exemplos Visuais
-
-![perfil_demografico](./assets/dashboard1.png)  
-![habitos_fatores_risco](./assets/dashboard2.png)  
-![desfechos_tratamento](./assets/dashboard3.png)
-
----
-
 ## 📁 Como visualizar
 
 1. Baixe o arquivo `.pbix`
